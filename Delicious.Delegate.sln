@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delicious.Delegate.App", "Delicious.Delegate.App\Delicious.Delegate.App.csproj", "{67EB658E-1189-43C1-996C-F08CC29BCA5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delicious.Delegate.AnonymousMethod", "Delicious.Delegate.AnonymousMethod\Delicious.Delegate.AnonymousMethod.csproj", "{7395607F-4411-41EE-88D0-6FB39C616B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delicious.Delegate.Generic", "Delicious.Delegate.Generic\Delicious.Delegate.Generic.csproj", "{E33D95E6-22B0-4D86-8400-9EB32408B2FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{67EB658E-1189-43C1-996C-F08CC29BCA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67EB658E-1189-43C1-996C-F08CC29BCA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67EB658E-1189-43C1-996C-F08CC29BCA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7395607F-4411-41EE-88D0-6FB39C616B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7395607F-4411-41EE-88D0-6FB39C616B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7395607F-4411-41EE-88D0-6FB39C616B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7395607F-4411-41EE-88D0-6FB39C616B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33D95E6-22B0-4D86-8400-9EB32408B2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33D95E6-22B0-4D86-8400-9EB32408B2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33D95E6-22B0-4D86-8400-9EB32408B2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33D95E6-22B0-4D86-8400-9EB32408B2FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
