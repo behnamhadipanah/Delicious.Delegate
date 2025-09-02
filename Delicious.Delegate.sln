@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delicious.Delegate.Anonymou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delicious.Delegate.Generic", "Delicious.Delegate.Generic\Delicious.Delegate.Generic.csproj", "{E33D95E6-22B0-4D86-8400-9EB32408B2FD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{263BDDB3-1C3E-4138-97F1-5C523BA4C7D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delicious.Delegate.LinqDelegate", "Projects\Delicious.Delegate.LinqDelegate\Delicious.Delegate.LinqDelegate.csproj", "{6C874B0E-FDC8-49E8-8F0D-8A6CA098ED71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,12 @@ Global
 		{E33D95E6-22B0-4D86-8400-9EB32408B2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E33D95E6-22B0-4D86-8400-9EB32408B2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E33D95E6-22B0-4D86-8400-9EB32408B2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C874B0E-FDC8-49E8-8F0D-8A6CA098ED71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C874B0E-FDC8-49E8-8F0D-8A6CA098ED71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C874B0E-FDC8-49E8-8F0D-8A6CA098ED71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C874B0E-FDC8-49E8-8F0D-8A6CA098ED71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6C874B0E-FDC8-49E8-8F0D-8A6CA098ED71} = {263BDDB3-1C3E-4138-97F1-5C523BA4C7D4}
 	EndGlobalSection
 EndGlobal
